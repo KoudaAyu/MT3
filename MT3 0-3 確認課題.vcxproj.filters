@@ -20,9 +20,7 @@
     <ClCompile Include="C:\KamataEngine\Adapter\Novice.cpp">
       <Filter>KamataEngine\Adapter</Filter>
     </ClCompile>
-    <ClCompile Include="..\MT3 0-2 確認課題\Matrix4x4.cpp">
-      <Filter>KamataEngine</Filter>
-    </ClCompile>
+    <ClCompile Include="..\MT3 0-2 確認課題\Matrix4x4.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\KamataEngine\DirectXGame\audio\Audio.h">
