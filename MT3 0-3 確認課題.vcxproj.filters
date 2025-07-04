@@ -20,7 +20,7 @@
     <ClCompile Include="C:\KamataEngine\Adapter\Novice.cpp">
       <Filter>KamataEngine\Adapter</Filter>
     </ClCompile>
-    <ClCompile Include="..\MT3 0-2 確認課題\Matrix4x4.cpp">
+    <ClCompile Include="Matrix4x4.cpp">
       <Filter>KamataEngine</Filter>
     </ClCompile>
   </ItemGroup>
@@ -107,7 +107,7 @@
       <Filter>KamataEngine\Include</Filter>
     </ClInclude>
     <ClInclude Include="..\MT3 0-2 確認課題\Const.h" />
-    <ClInclude Include="..\MT3 0-2 確認課題\Matrix4x4.h" />
     <ClInclude Include="..\MT3 0-2 確認課題\Struct.h" />
+    <ClInclude Include="Matrix4x4.h" />
   </ItemGroup>
 </Project>
